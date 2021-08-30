@@ -217,7 +217,7 @@
   )
 
   (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCAC7)
-    (at 170.18 49.53 180)
+    (at 160.18 49.53 180)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /611E81DE)
@@ -259,8 +259,8 @@
     )
   )
 
-  (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 56D1B4CB) (tstamp 612CF216)
-    (at 64.465 143.84)
+  (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 56D1B4CB) (tstamp 612D2987)
+    (at 230 50)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (path /6131B6AC)
@@ -280,7 +280,7 @@
   )
 
   (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 56D1B4CB) (tstamp 612CF20E)
-    (at 64.465 135.89)
+    (at 230 145)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (path /6131B3EC)
@@ -300,7 +300,7 @@
   )
 
   (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 56D1B4CB) (tstamp 612CF206)
-    (at 56.515 143.84)
+    (at 80 145)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (path /6131B1E0)
@@ -320,7 +320,7 @@
   )
 
   (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 56D1B4CB) (tstamp 612CF1FE)
-    (at 56.515 135.89)
+    (at 80 50)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (path /6131AAB6)
@@ -340,7 +340,7 @@
   )
 
   (module Capacitor_SMD:CP_Elec_10x10 (layer F.Cu) (tedit 5BCA39D1) (tstamp 612CCA87)
-    (at 181.61 53.34 270)
+    (at 171.61 53.34 270)
     (descr "SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm")
     (tags "capacitor electrolytic")
     (path /611E033C)
@@ -399,7 +399,7 @@
   )
 
   (module Capacitor_SMD:CP_Elec_6.3x7.7 (layer F.Cu) (tedit 5BCA39D0) (tstamp 612CCAAF)
-    (at 144.145 55.88 270)
+    (at 134.145 55.88 270)
     (descr "SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm")
     (tags "capacitor electrolytic")
     (path /611E0DC2)
@@ -458,7 +458,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 612CCAD9)
-    (at 202.565 58.42)
+    (at 192.565 58.42)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /611DDC97)
@@ -494,7 +494,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 612CCAEB)
-    (at 209.55 58.42)
+    (at 199.55 58.42)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /611DE1D7)
@@ -530,7 +530,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 612CCAFD)
-    (at 195.58 51.308)
+    (at 185.58 51.308)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /611DC690)
@@ -566,7 +566,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 612CCB0F)
-    (at 209.55 51.435)
+    (at 199.55 51.435)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /611DD025)
@@ -602,7 +602,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 612CCB21)
-    (at 202.565 51.435)
+    (at 192.565 51.435)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /611DD7D9)
@@ -637,8 +637,8 @@
     )
   )
 
-  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCB39)
-    (at 216.956 96.52)
+  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612D33B2)
+    (at 216.956 101.52)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /6127396D)
@@ -681,7 +681,7 @@
   )
 
   (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCB51)
-    (at 219.456 52.832)
+    (at 219.456 57.832)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /61201F3D)
@@ -723,8 +723,8 @@
     )
   )
 
-  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCB69)
-    (at 216.956 101.6)
+  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612D331F)
+    (at 216.956 106.6)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /61273963)
@@ -767,7 +767,7 @@
   )
 
   (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCB81)
-    (at 219.075 57.785)
+    (at 219.075 62.785)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /61200FD7)
@@ -809,8 +809,8 @@
     )
   )
 
-  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCB99)
-    (at 216.956 106.68)
+  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612D327A)
+    (at 216.956 111.68)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /61273959)
@@ -853,7 +853,7 @@
   )
 
   (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCBB1)
-    (at 218.988 62.992)
+    (at 218.988 67.992)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /611F50A1)
@@ -896,7 +896,7 @@
   )
 
   (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCBC9)
-    (at 165.1 133.985 270)
+    (at 165.1 133.985 90)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /6137E3B5)
@@ -927,9 +927,9 @@
     (fp_line (start -0.64944 0.00102) (end 0.50118 -0.79908) (layer F.Fab) (width 0.1))
     (fp_line (start -4.4 1.65) (end 2.5 1.65) (layer F.SilkS) (width 0.12))
     (fp_line (start -4.4 -1.65) (end 2.5 -1.65) (layer F.SilkS) (width 0.12))
-    (pad 2 smd rect (at 2.5 0 270) (size 3.5 1.8) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 2.5 0 90) (size 3.5 1.8) (layers F.Cu F.Paste F.Mask)
       (net 2 GND))
-    (pad 1 smd rect (at -2.5 0 270) (size 3.5 1.8) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -2.5 0 90) (size 3.5 1.8) (layers F.Cu F.Paste F.Mask)
       (net 20 /S2))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SMA.wrl
       (at (xyz 0 0 0))
@@ -981,8 +981,8 @@
     )
   )
 
-  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCBF9)
-    (at 218.44 123.825)
+  (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612D33F7)
+    (at 218.44 128.825)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /6127EB11)
@@ -1025,7 +1025,7 @@
   )
 
   (module Diode_SMD:D_SMA_Handsoldering (layer F.Cu) (tedit 58643398) (tstamp 612CCC11)
-    (at 218.44 80.01)
+    (at 218.44 85.01)
     (descr "Diode SMA (DO-214AC) Handsoldering")
     (tags "Diode SMA (DO-214AC) Handsoldering")
     (path /6127F0A4)
@@ -1068,7 +1068,7 @@
   )
 
   (module Resistor_SMD:R_1812_4532Metric_Pad1.30x3.40mm_HandSolder (layer F.Cu) (tedit 5F68FEEE) (tstamp 612CF87C)
-    (at 219.71 73.025)
+    (at 219.71 78.025)
     (descr "Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /6127394F)
@@ -1103,8 +1103,8 @@
     )
   )
 
-  (module Resistor_SMD:R_1812_4532Metric_Pad1.30x3.40mm_HandSolder (layer F.Cu) (tedit 5F68FEEE) (tstamp 612CF960)
-    (at 219.075 116.84 180)
+  (module Resistor_SMD:R_1812_4532Metric_Pad1.30x3.40mm_HandSolder (layer F.Cu) (tedit 5F68FEEE) (tstamp 612D3243)
+    (at 219.075 121.84 180)
     (descr "Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /61265549)
@@ -1140,7 +1140,7 @@
   )
 
   (module user-libraries:USRES1 (layer F.Cu) (tedit 0) (tstamp 612CCC50)
-    (at 113.665 52.705)
+    (at 100 55)
     (descr USR-ES1-1)
     (tags "Integrated Circuit")
     (path /613DEDB1)
@@ -1197,7 +1197,7 @@
   )
 
   (module Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal (layer F.Cu) (tedit 5B784ED2) (tstamp 612CCC6B)
-    (at 219.71 141.605)
+    (at 210 141.605)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/2-G-5.08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1836189 8A 320V")
     (tags "phoenix_contact connector MC_01x02_G_5.08mm")
     (path /611DB95F)
@@ -1241,8 +1241,8 @@
     )
   )
 
-  (module Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_5-G-5.08_1x05_P5.08mm_Horizontal (layer F.Cu) (tedit 5B784ED2) (tstamp 612CCC8C)
-    (at 226.695 116.84 90)
+  (module Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_5-G-5.08_1x05_P5.08mm_Horizontal (layer F.Cu) (tedit 5B784ED2) (tstamp 612D32C8)
+    (at 226.695 121.84 90)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/5-G-5.08; number of pins: 05; pin pitch: 5.08mm; Angled || order number: 1836215 8A 320V")
     (tags "phoenix_contact connector MC_01x05_G_5.08mm")
     (path /61273527)
@@ -1296,7 +1296,7 @@
   )
 
   (module Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_5-G-5.08_1x05_P5.08mm_Horizontal (layer F.Cu) (tedit 5B784ED2) (tstamp 612CCCAD)
-    (at 226.695 73.025 90)
+    (at 226.695 78.025 90)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/5-G-5.08; number of pins: 05; pin pitch: 5.08mm; Angled || order number: 1836215 8A 320V")
     (tags "phoenix_contact connector MC_01x05_G_5.08mm")
     (path /611CCCE6)
@@ -1535,8 +1535,8 @@
     )
   )
 
-  (module Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal (layer F.Cu) (tedit 5B784ED2) (tstamp 612CCD38)
-    (at 226.695 128.905 90)
+  (module Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal (layer F.Cu) (tedit 5B784ED2) (tstamp 612D3367)
+    (at 226.695 133.905 90)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/2-G-5.08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1836189 8A 320V")
     (tags "phoenix_contact connector MC_01x02_G_5.08mm")
     (path /61273941)
@@ -1581,7 +1581,7 @@
   )
 
   (module Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal (layer F.Cu) (tedit 5B784ED2) (tstamp 612CD7C6)
-    (at 226.695 85.09 90)
+    (at 226.695 90.09 90)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/2-G-5.08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1836189 8A 320V")
     (tags "phoenix_contact connector MC_01x02_G_5.08mm")
     (path /611CE89F)
@@ -1626,7 +1626,7 @@
   )
 
   (module Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C (layer F.Cu) (tedit 58FA3148) (tstamp 612CCD7C)
-    (at 176.53 129.54)
+    (at 173.99 129.205)
     (descr "relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf")
     (tags "relay Sanyu SRD form C")
     (path /611FA571)
@@ -1689,8 +1689,8 @@
     )
   )
 
-  (module Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C (layer F.Cu) (tedit 58FA3148) (tstamp 612CCDA5)
-    (at 140.335 128.905)
+  (module Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C (layer F.Cu) (tedit 58FA3148) (tstamp 612D2866)
+    (at 136.98 129.205)
     (descr "relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf")
     (tags "relay Sanyu SRD form C")
     (path /612296B6)
@@ -1754,7 +1754,7 @@
   )
 
   (module Inductor_SMD:L_12x12mm_H6mm (layer F.Cu) (tedit 5990349B) (tstamp 612CCDF4)
-    (at 155.575 55.245)
+    (at 145.575 55.245)
     (descr "Choke, SMD, 12x12mm 6mm height")
     (tags "Choke SMD")
     (path /611EDE8C)
@@ -1852,7 +1852,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 612CCE05)
-    (at 200.945001 65.260001)
+    (at 190.945001 65.260001)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /611FB097)
@@ -1888,7 +1888,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 612CCE16)
-    (at 196.195001 65.260001)
+    (at 186.195001 65.260001)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /611FB496)
@@ -1924,7 +1924,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 612D1DC7)
-    (at 190.745 58.725001)
+    (at 180.745 58.725001)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /611F989E)
@@ -1960,7 +1960,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 612D1E19)
-    (at 190.5 53.975)
+    (at 180.5 53.975)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /611FA9AC)
@@ -1996,7 +1996,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 612CCE49)
-    (at 191.445001 65.260001)
+    (at 181.445001 65.260001)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /611FAD8B)
@@ -2032,7 +2032,7 @@
   )
 
   (module Package_TO_SOT_SMD:TO-263-5_TabPin3 (layer F.Cu) (tedit 5A70FBB6) (tstamp 612CCE79)
-    (at 169.545 60.96 270)
+    (at 159.545 60.96 270)
     (descr "TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/")
     (tags "D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426")
     (path /611F6E2E)
@@ -2103,7 +2103,7 @@
   )
 
   (module Package_TO_SOT_THT:TO-92_HandSolder (layer F.Cu) (tedit 5A282C46) (tstamp 612CFA8F)
-    (at 194.945 60.325)
+    (at 184.945 60.325)
     (descr "TO-92 leads molded, narrow, drill 0.75mm, handsoldering variant with enlarged pads (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (path /611F1F9B)
@@ -2140,7 +2140,7 @@
   )
 
   (module Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1) (tstamp 612CCEB4)
-    (at 199.39 76.835 270)
+    (at 189.39 76.835 270)
     (descr "SOIC, 18 Pin (JEDEC MS-013AB, https://www.analog.com/media/en/package-pcb-resources/package/33254132129439rw_18.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (path /611F2925)

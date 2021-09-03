@@ -90,8 +90,6 @@ LED_1
 Wire Wire Line
 	9325 3875 9600 3875
 Wire Wire Line
-	9325 3975 9600 3975
-Wire Wire Line
 	9325 4075 9600 4075
 Wire Wire Line
 	9325 4400 9550 4400
@@ -110,20 +108,18 @@ Wire Wire Line
 Text Label 9350 5700 0    50   ~ 0
 GND
 Text Label 9350 3875 0    50   ~ 0
-NC_1
-Text Label 9350 3975 0    50   ~ 0
 COM_1
 Text Label 9350 4075 0    50   ~ 0
 NO_1
 Wire Wire Line
-	9325 5225 9600 5225
-Wire Wire Line
 	9325 5325 9600 5325
 Wire Wire Line
+	9325 5225 9600 5225
+Wire Wire Line
 	9325 5425 9600 5425
-Text Label 9350 5225 0    50   ~ 0
-NC_2
 Text Label 9350 5325 0    50   ~ 0
+NC_2
+Text Label 9350 5225 0    50   ~ 0
 COM_2
 Text Label 9350 5425 0    50   ~ 0
 NO_2
@@ -1434,4 +1430,8 @@ Text Label 6150 2150 0    50   ~ 0
 LED_ACT
 Text Label 6150 2500 0    50   ~ 0
 LED_IN
+Wire Wire Line
+	9325 3975 9600 3975
+Text Label 9350 3975 0    50   ~ 0
+NC_1
 $EndSCHEMATC
